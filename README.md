@@ -1,19 +1,15 @@
-[![Build Status][12]][13]
-
-Simple example to follow points into Gmaps
-
-[![FollowPath screenshot][1]][1]
+#Simple example to follow points into Gmaps
 
 
-# Introduction
+
+https://github.com/mael/FollowPath-Android-Maps2/blob/master/res/drawable/follow_path.png
 
 # Configure
 
 If you decide to use FollowPath, in first time you need:
 
-
-
 * Install GooglePlayServices as Library
+* Change KEY of Google Maps in AndroidManifest.xml
 
 
 [1]: 
