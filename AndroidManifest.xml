@@ -43,6 +43,7 @@
             </intent-filter>
         </activity>
 
+        <!-- CHANGE KEY -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyBfUDHQJr91kVHXEvKAqa9gGo9Y0TOFKrw" />
